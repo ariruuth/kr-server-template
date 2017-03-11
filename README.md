@@ -1,5 +1,7 @@
 # Server
 
+Spring Boot web application. You need JDK and Maven to get going.
+
 ## Build
 ```
 mvn package
