@@ -1,3 +1,6 @@
+# Table of Content
+__TOC__
+
 # Server
 
 Spring Boot web application. 
